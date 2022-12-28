@@ -1,0 +1,14 @@
+@media (max-width:539px) {
+    html {
+        font-size: 50%;
+    }
+    .topo a{
+        font-size: 2.3rem;
+    }
+    .sobre h2{
+        font-size: 2rem;
+    }
+    .topo img {
+        width: 180px;
+    }
+}
