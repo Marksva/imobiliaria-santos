@@ -1,14 +1,44 @@
-@media (max-width:539px) {
+@media(max-width:900px) {
+    html {
+        font-size: 70%;
+    }
+}
+
+
+@media (max-width:619px) {
     html {
         font-size: 50%;
     }
-    .topo a{
-        font-size: 2.3rem;
+
+    header {
+        padding: 23px;
     }
-    .sobre h2{
-        font-size: 2rem;
-    }
+
     .topo img {
         width: 180px;
+    }
+
+    .topo a {
+        font-size: 2.3rem;
+    }
+
+    .banner {
+        padding: 0 4px 0 4px;
+    }
+
+    .sobre {
+        padding: 12px;
+    }
+
+    .sobre h2 {
+        font-size: 2rem;
+    }
+
+    .corretores {
+        padding: 12px;
+    }
+
+    .servicos {
+        padding: 3px;
     }
 }
